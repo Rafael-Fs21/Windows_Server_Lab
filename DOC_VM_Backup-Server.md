@@ -1,8 +1,7 @@
 # Backup Server — Rotinas de Cópia de Segurança (Iperius Backup)
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-blue)
-![Mikrotik](https://img.shields.io/badge/Roteador-Mikrotik-red)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-lightblue)
 ![Backup](https://img.shields.io/badge/Backup-Iperius-yellow)
 
 > Parte do laboratório Proxmox VE multi-nó em VirtualBox. Documenta a implementação de rotinas de backup para o [File Server](./DOC_VM_FileServer.md), utilizando **Iperius Backup**, com destino redundante (disco local + dispositivo externo via USB passthrough).
