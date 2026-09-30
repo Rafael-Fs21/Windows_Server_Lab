@@ -1,8 +1,9 @@
 # DHCP Server — Configuração na VM Win-AD (Multi-Role)
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-blue)
-![Mikrotik](https://img.shields.io/badge/Roteador-Mikrotik-red)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-lightblue)
+![Roteador](https://img.shields.io/badge/Roteador-Mikrotik-red)
+![Redes](https://img.shields.io/badge/Redes-DHCP-darkblue)
 
 > Parte do laboratório Proxmox VE multi-nó em VirtualBox. Documenta a instalação do role **DHCP Server** na mesma VM [Win-AD](./DOC_VM_Win-AD_Active-Directory.md) (servidor multi-role: AD DS + DNS + DHCP), incluindo a migração de rede motivada pela introdução de um roteador Mikrotik no ambiente.
 
