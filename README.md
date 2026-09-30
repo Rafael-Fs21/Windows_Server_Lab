@@ -1,5 +1,7 @@
 # Proxmox VE Home Lab — Active Directory, DHCP e File Server
 
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen) ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-lightblue) ![Roteador](https://img.shields.io/badge/Roteador-Mikrotik-red) ![Redes](https://img.shields.io/badge/Redes-DHCP-darkblue) ![Arquivos](https://img.shields.io/badge/Arquivos-Files-purple) ![Backup](https://img.shields.io/badge/Backup-Iperius-yellow)
+
 Laboratório de estudo em virtualização e infraestrutura Windows Server, construído do zero em ambiente **Proxmox VE rodando dentro do VirtualBox**. Documentação incremental, com comandos reais, prints reais e registro de todos os erros encontrados durante o processo — sem conteúdo genérico ou inventado.
 
 ---
