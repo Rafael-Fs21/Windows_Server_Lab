@@ -1,7 +1,7 @@
 # VM Win-AD — Active Directory Domain Services (AD DS) + DNS
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-blue)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022%20Standard%20Evaluation-lightblue)
 ![Proxmox](https://img.shields.io/badge/Proxmox%20VE-9.2--1-orange)
 
 > Parte do laboratório Proxmox VE multi-nó em VirtualBox. Documenta a criação da VM Win-AD, hospedada na [Máquina 2](./DOC_Instalacao_Proxmox_VirtualBox_Maquina2.md), com os roles de **AD DS** e **DNS**. Próximos documentos do lab: **DHCP Server**, **File Server**, **Backup**.
