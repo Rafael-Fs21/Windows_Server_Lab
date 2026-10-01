@@ -23,7 +23,7 @@ O Proxmox roda como uma VM dentro do VirtualBox (virtualização aninhada / nest
 
 ### Infraestrutura base
 
-- **[Instalação do Proxmox VE — Máquina 2](./DOC_Instalacao_Proxmox_VirtualBox_Maquina2.md)**
+- * [Instalação do Proxmox VE — Máquina 2](./DOC_VM_Win-AD_Active-Directory.md#criação-da-vm-e-instalação-do-windows-server) Instalação do hypervisor, configuração de repositórios APT e primeiro boot.
   Instalação do hypervisor, configuração de repositórios APT (enterprise → no-subscription) e primeiro boot.
 
 ### Servidor Windows (Win-AD) — Multi-Role
